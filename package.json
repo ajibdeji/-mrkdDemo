@@ -5,8 +5,8 @@
   "main": "index.js",
   "dependencies": {
     "fs": "0.0.1-security",
-    "solc": "0.5.12",
-    "web3": "^1.2.1"
+    "solc": "^0.4.24",
+    "web3": "^1.0.0-beta.34"
   },
   "devDependencies": {},
   "scripts": {
